@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/ic_home"
+        android:title="홈" />
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/ic_parked"
+        android:title="주차완료" />
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/ic_location"
+        android:title="주차위치" />
+    <item
+        android:id="@+id/fourthFragment"
+        android:icon="@drawable/ic_money"
+        android:title="요금확인" />
+</menu>

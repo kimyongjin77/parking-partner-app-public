@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">파킹파트너</string>
+
+    <string-array name="alert_photo">
+        <item>카메라로 사진찍기</item>
+        <item>앨범에서 가져오기</item>
+    </string-array>
+
+    <string name="MY_POSITION_ARROUND">현 위치 주변</string>
+    <string name="MY_POSITION">현 위치</string>
+    <string name="ARROUND">&#160;주변</string>
+    <string name="CHANGE_PWD"><u>비밀번호 분실</u></string>
+</resources>
